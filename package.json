@@ -1,0 +1,11 @@
+{
+  "name": "lantern-heist",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "description": "A turn-based stealth puzzle: slip past lantern-bearing guards, steal the treasure and reach the exit unseen.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
